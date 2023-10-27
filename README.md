@@ -1,4 +1,4 @@
-# G2 Vendor Analysis Overview
+# G2 Vendor Review Analysis Overview
 
 
 ### I. Objective
