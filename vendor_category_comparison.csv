@@ -1,0 +1,221 @@
+VENDOR_NAME,NUMBER_OF_STARS,NUM_STARS_CATEGORY,PRODUCT_CATEGORY
+Acronis Cyber Backup,4.3,4.289707401,Data Replication
+Adobe Analytics,4.1,4.447840395,Predictive Analytics
+Adverity,4.5,4.359425797,ETL Tools
+Airbyte,4.1,4.359425797,ETL Tools
+Alteryx,4.5,4.5,Data Preparation
+Alteryx,4.5,4.447873118,Data Science and Machine Learning Platforms
+Alteryx,4.5,4.447840395,Predictive Analytics
+Amazon Redshift,4.3,4.405020997,Columnar Databases
+Amazon Redshift,4.3,4.328555352,Data Warehouse
+Amazon Relational Database Service (RDS),4.5,4.207192043,Database as a Service (DBaaS)
+Anaconda,4.6,4.447873118,Data Science and Machine Learning Platforms
+Appy Pie,4.7,4.548780488,iPaaS
+AWS Database Migration Service,3.9,4.289707401,Data Replication
+AWS Database Migration Service,3.9,4.359425797,ETL Tools
+AWS Glue,4.2,4.289707401,Data Replication
+AWS Glue,4.2,4.359425797,ETL Tools
+Azure Synapse Analytics,4.3,4.376737089,Big Data Analytics
+Azure Synapse Analytics,4.3,4.328555352,Data Warehouse
+Azure Synapse Analytics,4.3,4.398441109,Big Data Processing and Distribution
+BigQuery,4.4,4.405020997,Columnar Databases
+BigQuery,4.4,4.401182732,Data Warehouse Software
+BigQuery,4.4,4.402394455,Big Data Processing And Distribution Systems
+BigQuery,4.4,4.472857143,Big Data Analytics Software
+Celigo,4.6,4.548780488,iPaaS
+Census,4.5,4.359425797,ETL Tools
+Census,4.5,4.551593323,DataOps Platforms
+Chartio,4.5,4.382201828,Analytics Platforms
+Civis Analytics,5,4.447873118,Data Science and Machine Learning Platforms
+Cleo Integration Cloud,4.3,4.548780488,iPaaS
+Cleo Integration Cloud,4.3,4.374205894,On-Premise Data Integration
+Cloudera,4,4.398441109,Big Data Processing and Distribution
+Cloudera,4,4.376737089,Big Data Analytics
+Cloudera,4,4.328555352,Data Warehouse
+databricks,4.6,4.359425797,ETL Tools
+databricks,4.6,4.447873118,Data Science and Machine Learning Platforms
+databricks,4.6,4.472857143,Big Data Analytics Software
+databricks,4.6,4.551593323,DataOps Platforms
+databricks,4.6,4.6,AI & Machine Learning Operationalization (MLOps) Software
+databricks,4.6,4.401182732,Data Warehouse Software
+databricks,4.6,4.402394455,Big Data Processing And Distribution Systems
+Databricks Lakehouse Platform,4.6,4.328555352,Data Warehouse
+Databricks Lakehouse Platform,4.6,4.398441109,Big Data Processing and Distribution
+Databricks Lakehouse Platform,4.6,4.376737089,Big Data Analytics
+Databricks Lakehouse Platform,4.6,4.447873118,Data Science and Machine Learning Platforms
+Domo,4.4,4.366570225,Embedded Business Intelligence
+Domo,4.4,4.382201828,Analytics Platforms
+dremio,4.7,4.401182732,Data Warehouse Software
+dremio,4.7,4.472857143,Big Data Analytics Software
+dremio,4.7,4.402394455,Big Data Processing And Distribution Systems
+Dremio,4.7,4.328555352,Data Warehouse
+Dremio,4.7,4.376737089,Big Data Analytics
+Dremio,4.7,4.398441109,Big Data Processing and Distribution
+Druid,4.3,4.328555352,Data Warehouse
+Druid,4.3,4.405020997,Columnar Databases
+Druid,4.3,4.398441109,Big Data Processing and Distribution
+Fivetran,4.2,4.359425797,ETL Tools
+Fivetran,4.2,4.241547278,Data Replication Software
+Fivetran,4.2,4.289707401,Data Replication
+Fivetran,4.2,4.238926174,Data Extraction
+Fivetran,4.2,4.241547278,Data Extraction Software
+Funnel,4.5,4.359425797,ETL Tools
+GoodData,4.1,4.366570225,Embedded Business Intelligence
+GoodData,4.1,4.382201828,Analytics Platforms
+Google Cloud AI Platform,4.3,4.447873118,Data Science and Machine Learning Platforms
+Google Cloud BigQuery,4.4,4.398441109,Big Data Processing and Distribution
+Google Cloud BigQuery,4.4,4.376737089,Big Data Analytics
+Google Cloud BigQuery,4.4,4.405020997,Columnar Databases
+Google Cloud BigQuery,4.4,4.328555352,Data Warehouse
+green plum,4.3,4.401182732,Data Warehouse Software
+Hevo Data,4.4,4.289707401,Data Replication
+Hevo Data,4.4,4.359425797,ETL Tools
+Hevo Data,4.4,4.238926174,Data Extraction
+Hive,4.2,4.328555352,Data Warehouse
+HubSpot Operations Hub,4.5,4.548780488,iPaaS
+IBM Db2,4,4.328555352,Data Warehouse
+IBM Db2,4,4.207192043,Database as a Service (DBaaS)
+IBM SPSS Modeler,3.9,4.447873118,Data Science and Machine Learning Platforms
+IBM Watson Studio,4.3,4.447873118,Data Science and Machine Learning Platforms
+Informatica,4.4,4.359425797,ETL Tools
+Informatica,4.4,4.49,On-Premise Data Integration Software
+Informatica,4.4,4.4,Data Virtualization Software
+Informatica,4.4,4.4,Data Mapping Software
+Integrate.io,4.3,4.359425797,ETL Tools
+Integrate.io,4.3,4.289707401,Data Replication
+Integrately,4.7,4.548780488,iPaaS
+Keboola,4.7,4.359425797,ETL Tools
+Keboola,4.7,4.241547278,Data Replication Software
+Keboola,4.7,4.696721311,Big Data Integration Platforms
+Keboola,4.7,4.241547278,Data Extraction Software
+Keboola,4.7,4.551593323,DataOps Platforms
+Keboola,4.7,4.548971193,iPaaS Software
+Looker,4.4,4.382201828,Analytics Platforms
+Looker,4.4,4.413398058,Marketing Analytics Software
+Looker,4.4,4.4,Sales Analytics Software
+Looker,4.4,4.366570225,Embedded Business Intelligence
+Looker,4.4,4.413398058,Digital Analytics Software
+Looker,4.4,4.413398058,Marketing Analytics
+Looker,4.4,4.41240115,Digital Analytics
+Looker,4.4,4.41162947,Embedded Business Intelligence Software
+MariaDB,4.4,4.405020997,Columnar Databases
+Martini,4.7,4.548780488,iPaaS
+Matillion ETL,4.4,4.359425797,ETL Tools
+MATLAB,4.5,4.447873118,Data Science and Machine Learning Platforms
+MATLAB,4.5,4.376737089,Big Data Analytics
+Mediafly Intelligence360 (formerly InsightSquared),4.4,4.382201828,Analytics Platforms
+Mediafly Intelligence360 (formerly InsightSquared),4.4,4.362954545,Sales Analytics
+Microsoft Power BI Desktop,4.4,4.382201828,Analytics Platforms
+Microsoft SQL Server,4.4,4.398441109,Big Data Processing and Distribution
+Microsoft SQL Server,4.4,4.374205894,On-Premise Data Integration
+MicroStrategy,4.2,4.366570225,Embedded Business Intelligence
+MicroStrategy,4.2,4.382201828,Analytics Platforms
+Mode,4.5,4.413398058,Marketing Analytics Software
+Mode,4.5,4.366570225,Embedded Business Intelligence
+Mode,4.5,4.382201828,Analytics Platforms
+Mode,4.5,4.41240115,Digital Analytics
+Mode,4.5,4.413398058,Marketing Analytics
+Mode,4.5,4.41162947,Embedded Business Intelligence Software
+Mode,4.5,4.413398058,Digital Analytics Software
+Mozart,4.5,4.551593323,DataOps Platforms
+Mozart,4.5,4.359425797,ETL Tools
+Mozart,4.5,4.401182732,Data Warehouse Software
+Mozart,4.5,4.5,Data Observability Software
+MuleSoft Anypoint Platform,4.5,4.548780488,iPaaS
+Nexla,4.7,4.7,Big Data Software
+Nexla,4.7,4.359425797,ETL Tools
+Nexla,4.7,4.7,Reverse ETL Software
+Nexla,4.7,4.7,Active Metadata Management Software
+Nexla,4.7,4.7,Cloud Migration Software
+Nexla,4.7,4.7,Stream Analytics Software
+Nexla,4.7,4.696721311,Big Data Integration Platforms
+Nexla,4.7,4.548971193,iPaaS Software
+Nexla,4.7,4.7,Event Stream Processing Software
+Nexla,4.7,4.49,On-Premise Data Integration Software
+Nexla,4.7,4.7,Database as a Service (DBaaS) Provider
+Nexla,4.7,4.551593323,DataOps Platforms
+NinjaCat,4.2,4.359425797,ETL Tools
+Oracle Database,4.3,4.207192043,Database as a Service (DBaaS)
+Oracle Exadata Cloud Service,4.4,4.328555352,Data Warehouse
+Palantir,4.5,4.447873118,Data Science and Machine Learning Platforms
+Palantir,4.5,4.5,Data Fabric Software
+Palantir,4.5,4.696721311,Big Data Integration Platforms
+Palantir,4.5,4.548971193,iPaaS Software
+Palantir,4.5,4.401626016,Data Preparation Software
+Palantir,4.5,4.5,Master Data Management (MDM) Software
+Palantir,4.5,4.5,Predictive Analytics Software
+Posit,4.5,4.382201828,Analytics Platforms
+Posit,4.5,4.398441109,Big Data Processing and Distribution
+Posit,4.5,4.447873118,Data Science and Machine Learning Platforms
+Power BI,4.4,4.382201828,Analytics Platforms
+Precog,4.5,4.359425797,ETL Tools
+Qlik,4.5,4.5,Predictive Analytics Software
+Qlik,4.5,4.5,Location Intelligence Software
+Qlik,4.5,4.5,Productivity Bots Software
+Qlik,4.5,4.382201828,Analytics Platforms
+Qlik,4.5,4.5,Data Warehouse Automation Software
+Qlik,4.5,4.5,Chatbots Software
+Qlik,4.5,4.41162947,Embedded Business Intelligence Software
+Qlik Replicate,4.3,4.359425797,ETL Tools
+Qlik Replicate,4.3,4.289707401,Data Replication
+Qlik Sense,4.5,4.447840395,Predictive Analytics
+Qlik Sense,4.5,4.366570225,Embedded Business Intelligence
+Qlik Sense,4.5,4.382201828,Analytics Platforms
+Qubole,4,4.398441109,Big Data Processing and Distribution
+Qubole,4,4.376737089,Big Data Analytics
+Qubole,4,4.447873118,Data Science and Machine Learning Platforms
+RapidMiner,4.6,4.447840395,Predictive Analytics
+RapidMiner,4.6,4.447873118,Data Science and Machine Learning Platforms
+Salesforce CRM Analytics (formerly Tableau CRM),4.2,4.382201828,Analytics Platforms
+SAP Analytics Cloud,4.2,4.382201828,Analytics Platforms
+Sigma,4.3,4.366570225,Embedded Business Intelligence
+Sigma,4.3,4.41162947,Embedded Business Intelligence Software
+Sigma,4.3,4.382201828,Analytics Platforms
+Singular,4.4,4.359425797,ETL Tools
+Sisense,4.3,4.366570225,Embedded Business Intelligence
+Sisense,4.3,4.382201828,Analytics Platforms
+Skyvia,4.8,4.359425797,ETL Tools
+SnapLogic Intelligent Integration Platform (IIP),4.2,4.359425797,ETL Tools
+snowflake,4.5,4.5,Data Clean Room Software
+Snowflake,4.5,4.405020997,Columnar Databases
+snowflake,4.5,4.402394455,Big Data Processing And Distribution Systems
+snowflake,4.5,4.5,Database Management Systems (DBMS)
+snowflake,4.5,4.405020997,Columnar Databases
+Snowflake,4.5,4.328555352,Data Warehouse
+Snowflake,4.5,4.398441109,Big Data Processing and Distribution
+snowflake,4.5,4.401182732,Data Warehouse Software
+starburst,4.6,4.472857143,Big Data Analytics Software
+starburst,4.6,4.401182732,Data Warehouse Software
+starburst,4.6,4.402394455,Big Data Processing And Distribution Systems
+Stitch Data,4.5,4.359425797,ETL Tools
+Supermetrics,4.3,4.359425797,ETL Tools
+Tableau,4.4,4.382201828,Analytics Platforms
+Tableau,4.4,4.41162947,Embedded Business Intelligence Software
+Tableau Desktop,4.4,4.366570225,Embedded Business Intelligence
+Tableau Desktop,4.4,4.382201828,Analytics Platforms
+Tableau Server,4.2,4.382201828,Analytics Platforms
+Tableau Server,4.2,4.366570225,Embedded Business Intelligence
+Talend Data Integration,4,4.374205894,On-Premise Data Integration
+Talend Data Integration,4,4.289707401,Data Replication
+Talend Data Integration,4,4,Data Mapping
+Talend Data Integration,4,4.359425797,ETL Tools
+Teradata Vantage,4.2,4.398441109,Big Data Processing and Distribution
+Teradata Vantage,4.2,4.328555352,Data Warehouse
+ThoughtSpot,4.4,4.41240115,Digital Analytics
+ThoughtSpot,4.4,4.382201828,Analytics Platforms
+ThoughtSpot,4.4,4.366570225,Embedded Business Intelligence
+Trifacta,4.4,4.401626016,Data Preparation Software
+Trifacta,4.4,4.548971193,iPaaS Software
+Trifacta,4.4,4.359425797,ETL Tools
+Trifacta,4.4,4.4,Data Quality Software
+Veeam Backup & Replication,4.6,4.289707401,Data Replication
+Vertica,4.3,4.405020997,Columnar Databases
+Vertica,4.3,4.401182732,Data Warehouse Software
+Vertica,4.3,4.402394455,Big Data Processing And Distribution Systems
+Vertica,4.3,4.328555352,Data Warehouse
+Vertica,4.3,4.398441109,Big Data Processing and Distribution
+Workato,4.7,4.359425797,ETL Tools
+Zapier,4.5,4.548780488,iPaaS
+Zoho Analytics,4.2,4.362954545,Sales Analytics
+Zoho Analytics,4.2,4.366570225,Embedded Business Intelligence
+Zoho Analytics,4.2,4.382201828,Analytics Platforms

@@ -1,0 +1,192 @@
+VENDOR_NAME,COMPETITOR_NAME,NUMBER_OF_REVIEWS,NUMBER_OF_STARS
+Informatica,Talend Data Integration,61,4
+Keboola,Zapier,1022,4.5
+Keboola,MuleSoft Anypoint Platform,519,4.5
+Keboola,Supermetrics,506,4.3
+Keboola,Integrately,566,4.7
+Keboola,Appy Pie,995,4.7
+Keboola,Cleo Integration Cloud,430,4.3
+Keboola,Veeam Backup & Replication,365,4.6
+Keboola,Acronis Cyber Backup,617,4.3
+Keboola,Celigo,366,4.6
+Keboola,Fivetran,320,4.2
+Nexla,Supermetrics,506,4.3
+Nexla,Cleo Integration Cloud,430,4.3
+Nexla,Microsoft SQL Server,2122,4.4
+Nexla,Zapier,1022,4.5
+Nexla,Appy Pie,995,4.7
+Nexla,Oracle Database,827,4.3
+Nexla,IBM Db2,600,4
+Nexla,Amazon Relational Database Service (RDS),587,4.5
+Nexla,Integrately,566,4.7
+Nexla,MuleSoft Anypoint Platform,519,4.5
+Stitch Data,Fivetran,320,4.2
+Stitch Data,Integrate.io,154,4.3
+Stitch Data,Hevo Data,116,4.4
+Stitch Data,Skyvia,146,4.8
+Stitch Data,AWS Glue,80,4.2
+Stitch Data,Supermetrics,506,4.3
+Stitch Data,Matillion ETL,31,4.4
+Stitch Data,Adverity,183,4.5
+Stitch Data,Workato,282,4.7
+Stitch Data,Funnel,105,4.5
+dremio,Databricks Lakehouse Platform,100,4.6
+dremio,Snowflake,389,4.5
+dremio,Google Cloud BigQuery,332,4.4
+dremio,Azure Synapse Analytics,23,4.3
+dremio,Amazon Redshift,300,4.3
+dremio,Druid,31,4.3
+dremio,IBM Db2,600,4
+dremio,Microsoft SQL Server,2122,4.4
+dremio,MATLAB,660,4.5
+dremio,Posit,547,4.5
+databricks,Google Cloud BigQuery,332,4.4
+databricks,Qubole,259,4
+databricks,Snowflake,389,4.5
+databricks,Dremio,41,4.7
+databricks,Cloudera,30,4
+databricks,Azure Synapse Analytics,23,4.3
+databricks,Amazon Redshift,300,4.3
+databricks,Teradata Vantage,142,4.2
+databricks,Posit,547,4.5
+databricks,IBM Db2,600,4
+BigQuery,Snowflake,389,4.5
+BigQuery,Vertica,177,4.3
+BigQuery,Databricks Lakehouse Platform,100,4.6
+BigQuery,Cloudera,30,4
+BigQuery,Azure Synapse Analytics,23,4.3
+BigQuery,Amazon Redshift,300,4.3
+BigQuery,Teradata Vantage,142,4.2
+BigQuery,IBM Db2,600,4
+BigQuery,Dremio,41,4.7
+BigQuery,Qubole,259,4
+Vertica,Snowflake,389,4.5
+Vertica,Google Cloud BigQuery,332,4.4
+Vertica,Amazon Redshift,300,4.3
+Vertica,Teradata Vantage,142,4.2
+Vertica,Microsoft SQL Server,2122,4.4
+Vertica,IBM Db2,600,4
+Vertica,MariaDB,202,4.4
+Vertica,Databricks Lakehouse Platform,100,4.6
+Vertica,Oracle Exadata Cloud Service,39,4.4
+Vertica,Posit,547,4.5
+Mozart,Snowflake,389,4.5
+Mozart,IBM Db2,600,4
+Mozart,Supermetrics,506,4.3
+Mozart,Google Cloud BigQuery,332,4.4
+Mozart,Fivetran,320,4.2
+Mozart,Amazon Redshift,300,4.3
+Mozart,Workato,282,4.7
+Mozart,NinjaCat,258,4.2
+Mozart,Singular,204,4.4
+Mozart,Census,198,4.5
+Looker,Mode,230,4.5
+Looker,ThoughtSpot,207,4.4
+Looker,Zoho Analytics,163,4.2
+Looker,Tableau Desktop,1189,4.4
+Looker,Sisense,752,4.3
+Looker,Mediafly Intelligence360 (formerly InsightSquared),717,4.4
+Looker,Domo,640,4.4
+Looker,Qlik Sense,637,4.5
+Looker,MicroStrategy,533,4.2
+Looker,Tableau Server,428,4.2
+Power BI,Tableau Desktop,1189,4.4
+Power BI,Looker,1115,4.4
+Power BI,Sisense,752,4.3
+Power BI,Domo,640,4.4
+Power BI,Qlik Sense,637,4.5
+Power BI,Posit,547,4.5
+Power BI,Tableau Server,428,4.2
+Power BI,SAP Analytics Cloud,340,4.2
+Power BI,Salesforce CRM Analytics (formerly Tableau CRM),336,4.2
+Power BI,MicroStrategy,533,4.2
+Sigma,Tableau Desktop,1189,4.4
+Sigma,Looker,1115,4.4
+Sigma,Mode,230,4.5
+Sigma,ThoughtSpot,207,4.4
+Sigma,Microsoft Power BI Desktop,870,4.4
+Sigma,Sisense,752,4.3
+Sigma,Domo,640,4.4
+Sigma,Qlik Sense,637,4.5
+Sigma,Tableau Server,428,4.2
+Sigma,MicroStrategy,533,4.2
+Mode,Looker,1115,4.4
+Mode,Tableau Desktop,1189,4.4
+Mode,Sisense,752,4.3
+Mode,Domo,640,4.4
+Mode,Tableau Server,428,4.2
+Mode,Qlik Sense,637,4.5
+Mode,Chartio,284,4.5
+Mode,Microsoft Power BI Desktop,870,4.4
+Mode,Sigma,231,4.3
+Mode,GoodData,338,4.1
+Trifacta,Appy Pie,995,4.7
+Trifacta,Supermetrics,506,4.3
+Trifacta,Zapier,1022,4.5
+Trifacta,Cleo Integration Cloud,430,4.3
+Trifacta,Celigo,366,4.6
+Trifacta,Integrately,566,4.7
+Trifacta,MuleSoft Anypoint Platform,519,4.5
+Trifacta,HubSpot Operations Hub,338,4.5
+Trifacta,Martini,336,4.7
+Trifacta,Fivetran,320,4.2
+Palantir,Alteryx,225,4.5
+Palantir,MuleSoft Anypoint Platform,519,4.5
+Palantir,RapidMiner,492,4.6
+Palantir,Zapier,1022,4.5
+Palantir,Appy Pie,995,4.7
+Palantir,Adobe Analytics,880,4.1
+Palantir,MATLAB,660,4.5
+Palantir,Qlik Sense,637,4.5
+Palantir,Integrately,566,4.7
+Palantir,Posit,547,4.5
+green plum,Snowflake,389,4.5
+green plum,Amazon Redshift,300,4.3
+green plum,Vertica,177,4.3
+green plum,Google Cloud BigQuery,332,4.4
+green plum,Cloudera,30,4
+green plum,IBM Db2,600,4
+green plum,Teradata Vantage,142,4.2
+green plum,Databricks Lakehouse Platform,100,4.6
+green plum,Azure Synapse Analytics,23,4.3
+green plum,Hive,55,4.2
+Fivetran,Hevo Data,116,4.4
+Fivetran,Integrate.io,154,4.3
+Fivetran,AWS Glue,80,4.2
+Fivetran,Talend Data Integration,61,4
+Fivetran,Supermetrics,506,4.3
+Fivetran,Workato,282,4.7
+Fivetran,AWS Database Migration Service,35,3.9
+Fivetran,Adverity,183,4.5
+Fivetran,Qlik Replicate,106,4.3
+Fivetran,Funnel,105,4.5
+Precog,Supermetrics,506,4.3
+Precog,Fivetran,320,4.2
+Precog,Workato,282,4.7
+Precog,NinjaCat,258,4.2
+Precog,Singular,204,4.4
+Precog,Census,198,4.5
+Precog,Adverity,183,4.5
+Precog,SnapLogic Intelligent Integration Platform (IIP),174,4.2
+Precog,Integrate.io,154,4.3
+Precog,Skyvia,146,4.8
+Civis Analytics,MATLAB,660,4.5
+Civis Analytics,Posit,547,4.5
+Civis Analytics,RapidMiner,492,4.6
+Civis Analytics,Qubole,259,4
+Civis Analytics,Alteryx,225,4.5
+Civis Analytics,IBM Watson Studio,198,4.3
+Civis Analytics,IBM SPSS Modeler,135,3.9
+Civis Analytics,Databricks Lakehouse Platform,100,4.6
+Civis Analytics,Anaconda,98,4.6
+Civis Analytics,Google Cloud AI Platform,86,4.3
+snowflake,Google Cloud BigQuery,332,4.4
+snowflake,Vertica,177,4.3
+snowflake,Amazon Redshift,300,4.3
+snowflake,Druid,31,4.3
+snowflake,Teradata Vantage,142,4.2
+snowflake,IBM Db2,600,4
+snowflake,Databricks Lakehouse Platform,100,4.6
+snowflake,Dremio,41,4.7
+snowflake,Cloudera,30,4
+snowflake,Azure Synapse Analytics,23,4.3

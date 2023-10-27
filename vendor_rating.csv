@@ -1,0 +1,621 @@
+VENDOR_NAME,NUMBER_OF_REVIEWS,NUMBER_OF_STARS,CATEGORY_LIST
+Informatica,77,4.4,"[
+  ""ETL Tools"",
+  ""On-Premise Data Integration Software"",
+  ""Data Virtualization Software"",
+  ""Data Mapping Software""
+]"
+Keboola,87,4.7,"[
+  ""iPaaS Software"",
+  ""ETL Tools"",
+  ""Data Replication Software"",
+  ""Big Data Integration Platforms"",
+  ""Data Extraction Software"",
+  ""DataOps Platforms""
+]"
+Nexla,33,4.7,"[
+  ""iPaaS Software"",
+  ""Big Data Software"",
+  ""Database as a Service (DBaaS) Provider"",
+  ""ETL Tools"",
+  ""On-Premise Data Integration Software"",
+  ""Big Data Integration Platforms"",
+  ""Cloud Migration Software"",
+  ""Stream Analytics Software"",
+  ""DataOps Platforms"",
+  ""Reverse ETL Software"",
+  ""Event Stream Processing Software"",
+  ""Active Metadata Management Software""
+]"
+Stitch Data,59,4.5,"[
+  ""ETL Tools""
+]"
+dremio,41,4.7,"[
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Warehouse Software"",
+  ""Big Data Analytics Software""
+]"
+starburst,17,4.6,"[
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Warehouse Software"",
+  ""Big Data Analytics Software""
+]"
+databricks,100,4.6,"[
+  ""ETL Tools"",
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Science and Machine Learning Platforms"",
+  ""Data Warehouse Software"",
+  ""Big Data Analytics Software"",
+  ""DataOps Platforms"",
+  ""AI & Machine Learning Operationalization (MLOps) Software""
+]"
+BigQuery,332,4.4,"[
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Warehouse Software"",
+  ""Big Data Analytics Software"",
+  ""Columnar Databases""
+]"
+Vertica,177,4.3,"[
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Warehouse Software"",
+  ""Columnar Databases""
+]"
+Mozart,43,4.5,"[
+  ""ETL Tools"",
+  ""Data Warehouse Software"",
+  ""DataOps Platforms"",
+  ""Data Observability Software""
+]"
+Looker,1115,4.4,"[
+  ""Sales Analytics Software"",
+  ""Marketing Analytics Software"",
+  ""Digital Analytics Software"",
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence Software""
+]"
+Qlik,637,4.5,"[
+  ""Chatbots Software"",
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence Software"",
+  ""Predictive Analytics Software"",
+  ""Productivity Bots Software"",
+  ""Location Intelligence Software"",
+  ""Data Warehouse Automation Software""
+]"
+Trifacta,121,4.4,"[
+  ""iPaaS Software"",
+  ""ETL Tools"",
+  ""Data Quality Software"",
+  ""Data Preparation Software""
+]"
+Palantir,2,4.5,"[
+  ""iPaaS Software"",
+  ""Predictive Analytics Software"",
+  ""Data Science and Machine Learning Platforms"",
+  ""Big Data Integration Platforms"",
+  ""Master Data Management (MDM) Software"",
+  ""Data Preparation Software"",
+  ""Data Fabric Software""
+]"
+green plum,61,4.3,"[
+  ""Data Warehouse Software""
+]"
+Fivetran,320,4.2,"[
+  ""ETL Tools"",
+  ""Data Replication Software"",
+  ""Data Extraction Software""
+]"
+Precog,4,4.5,"[
+  ""ETL Tools""
+]"
+Airbyte,5,4.1,"[
+  ""ETL Tools""
+]"
+ascend.io,,,
+Tableau,1189,4.4,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence Software""
+]"
+snowflake,389,4.5,"[
+  ""Database Management Systems (DBMS)"",
+  ""Big Data Processing And Distribution Systems"",
+  ""Data Warehouse Software"",
+  ""Columnar Databases"",
+  ""Data Clean Room Software""
+]"
+Mode,230,4.5,"[
+  ""Marketing Analytics Software"",
+  ""Digital Analytics Software"",
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence Software""
+]"
+Talend Data Integration,61,4,"[
+  ""On-Premise Data Integration"",
+  ""Data Mapping"",
+  ""ETL Tools""
+]"
+Zapier,1022,4.5,"[
+  ""iPaaS""
+]"
+MuleSoft Anypoint Platform,519,4.5,"[
+  ""iPaaS""
+]"
+Supermetrics,506,4.3,"[
+  ""ETL Tools""
+]"
+Appy Pie,995,4.7,"[
+  ""iPaaS""
+]"
+Cleo Integration Cloud,430,4.3,"[
+  ""iPaaS""
+]"
+Fivetran,320,4.2,"[
+  ""Data Replication"",
+  ""Data Extraction"",
+  ""ETL Tools""
+]"
+Cleo Integration Cloud,430,4.3,"[
+  ""iPaaS"",
+  ""On-Premise Data Integration""
+]"
+Microsoft SQL Server,2122,4.4,"[
+  ""On-Premise Data Integration""
+]"
+Oracle Database,827,4.3,"[
+  ""Database as a Service (DBaaS)""
+]"
+Amazon Relational Database Service (RDS),587,4.5,"[
+  ""Database as a Service (DBaaS)""
+]"
+Skyvia,146,4.8,"[
+  ""ETL Tools""
+]"
+AWS Glue,80,4.2,"[
+  ""ETL Tools""
+]"
+Funnel,105,4.5,"[
+  ""ETL Tools""
+]"
+Azure Synapse Analytics,23,4.3,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Warehouse""
+]"
+Druid,31,4.3,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+IBM Db2,600,4,"[
+  ""Data Warehouse""
+]"
+MATLAB,660,4.5,"[
+  ""Big Data Analytics""
+]"
+Vertica,177,4.3,"[
+  ""Data Warehouse"",
+  ""Columnar Databases"",
+  ""Big Data Processing and Distribution""
+]"
+Dremio,41,4.7,"[
+  ""Data Warehouse"",
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics""
+]"
+Google Cloud BigQuery,332,4.4,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse"",
+  ""Columnar Databases""
+]"
+Snowflake,389,4.5,"[
+  ""Data Warehouse""
+]"
+Microsoft Power BI Desktop,870,4.4,"[
+  ""Analytics Platforms""
+]"
+Qlik Sense,637,4.5,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+IBM Db2,600,4,"[
+  ""Database as a Service (DBaaS)""
+]"
+Matillion ETL,31,4.4,"[
+  ""ETL Tools""
+]"
+Qubole,259,4,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Science and Machine Learning Platforms""
+]"
+Amazon Redshift,300,4.3,"[
+  ""Data Warehouse"",
+  ""Columnar Databases""
+]"
+Martini,336,4.7,"[
+  ""iPaaS""
+]"
+Cloudera,30,4,"[
+  ""Data Warehouse""
+]"
+Anaconda,98,4.6,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Azure Synapse Analytics,23,4.3,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+MicroStrategy,533,4.2,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+AWS Glue,80,4.2,"[
+  ""Data Replication"",
+  ""ETL Tools""
+]"
+Power BI,870,4.4,"[
+  ""Analytics Platforms""
+]"
+Sigma,231,4.3,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence Software""
+]"
+Civis Analytics,3,5,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Integrately,566,4.7,"[
+  ""iPaaS""
+]"
+Veeam Backup & Replication,365,4.6,"[
+  ""Data Replication""
+]"
+Acronis Cyber Backup,617,4.3,"[
+  ""Data Replication""
+]"
+Integrate.io,154,4.3,"[
+  ""ETL Tools""
+]"
+Hevo Data,116,4.4,"[
+  ""ETL Tools""
+]"
+Adverity,183,4.5,"[
+  ""ETL Tools""
+]"
+Databricks Lakehouse Platform,100,4.6,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Warehouse""
+]"
+Google Cloud BigQuery,332,4.4,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Warehouse""
+]"
+Microsoft SQL Server,2122,4.4,"[
+  ""Big Data Processing and Distribution""
+]"
+Posit,547,4.5,"[
+  ""Big Data Processing and Distribution""
+]"
+Cloudera,30,4,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Warehouse""
+]"
+Snowflake,389,4.5,"[
+  ""Data Warehouse"",
+  ""Columnar Databases"",
+  ""Big Data Processing and Distribution""
+]"
+Databricks Lakehouse Platform,100,4.6,"[
+  ""Data Warehouse"",
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics""
+]"
+Snowflake,389,4.5,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse"",
+  ""Columnar Databases""
+]"
+Google Cloud BigQuery,332,4.4,"[
+  ""Data Warehouse""
+]"
+NinjaCat,258,4.2,"[
+  ""ETL Tools""
+]"
+Census,198,4.5,"[
+  ""DataOps Platforms"",
+  ""ETL Tools""
+]"
+Mode,230,4.5,"[
+  ""Marketing Analytics"",
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms"",
+  ""Digital Analytics""
+]"
+Domo,640,4.4,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Sisense,752,4.3,"[
+  ""Analytics Platforms""
+]"
+Domo,640,4.4,"[
+  ""Analytics Platforms""
+]"
+Salesforce CRM Analytics (formerly Tableau CRM),336,4.2,"[
+  ""Analytics Platforms""
+]"
+Tableau Server,428,4.2,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+HubSpot Operations Hub,338,4.5,"[
+  ""iPaaS""
+]"
+MATLAB,660,4.5,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Vertica,177,4.3,"[
+  ""Data Warehouse""
+]"
+Google Cloud AI Platform,86,4.3,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Cloudera,30,4,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Snowflake,389,4.5,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Amazon Redshift,300,4.3,"[
+  ""Data Warehouse""
+]"
+Teradata Vantage,142,4.2,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Posit,547,4.5,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Science and Machine Learning Platforms""
+]"
+Cloudera,30,4,"[
+  ""Data Warehouse"",
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics""
+]"
+Databricks Lakehouse Platform,100,4.6,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Singular,204,4.4,"[
+  ""ETL Tools""
+]"
+Zoho Analytics,163,4.2,"[
+  ""Sales Analytics"",
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Tableau Desktop,1189,4.4,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Mediafly Intelligence360 (formerly InsightSquared),717,4.4,"[
+  ""Sales Analytics"",
+  ""Analytics Platforms""
+]"
+Looker,1115,4.4,"[
+  ""Analytics Platforms""
+]"
+Qlik Sense,637,4.5,"[
+  ""Analytics Platforms""
+]"
+Looker,1115,4.4,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+ThoughtSpot,207,4.4,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+Sisense,752,4.3,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+GoodData,338,4.1,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Alteryx,225,4.5,"[
+  ""Data Preparation"",
+  ""Data Science and Machine Learning Platforms"",
+  ""Predictive Analytics""
+]"
+Qlik Sense,637,4.5,"[
+  ""Predictive Analytics""
+]"
+Posit,547,4.5,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Azure Synapse Analytics,23,4.3,"[
+  ""Data Warehouse""
+]"
+Hive,55,4.2,"[
+  ""Data Warehouse""
+]"
+Integrate.io,154,4.3,"[
+  ""Data Replication"",
+  ""ETL Tools""
+]"
+RapidMiner,492,4.6,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+IBM Watson Studio,198,4.3,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+MariaDB,202,4.4,"[
+  ""Columnar Databases""
+]"
+ThoughtSpot,207,4.4,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms"",
+  ""Digital Analytics""
+]"
+Sisense,752,4.3,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Looker,1115,4.4,"[
+  ""Marketing Analytics"",
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms"",
+  ""Digital Analytics""
+]"
+Talend Data Integration,61,4,"[
+  ""Data Replication"",
+  ""ETL Tools""
+]"
+AWS Database Migration Service,35,3.9,"[
+  ""Data Replication"",
+  ""ETL Tools""
+]"
+Qubole,259,4,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Alteryx,225,4.5,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Druid,31,4.3,"[
+  ""Columnar Databases"",
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Celigo,366,4.6,"[
+  ""iPaaS""
+]"
+MicroStrategy,533,4.2,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Tableau Server,428,4.2,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Databricks Lakehouse Platform,100,4.6,"[
+  ""Data Warehouse""
+]"
+Databricks Lakehouse Platform,100,4.6,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Fivetran,320,4.2,"[
+  ""ETL Tools""
+]"
+Workato,282,4.7,"[
+  ""ETL Tools""
+]"
+Dremio,41,4.7,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics"",
+  ""Data Warehouse""
+]"
+Azure Synapse Analytics,23,4.3,"[
+  ""Data Warehouse"",
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics""
+]"
+Teradata Vantage,142,4.2,"[
+  ""Data Warehouse"",
+  ""Big Data Processing and Distribution""
+]"
+Qubole,259,4,"[
+  ""Big Data Processing and Distribution"",
+  ""Big Data Analytics""
+]"
+Oracle Exadata Cloud Service,39,4.4,"[
+  ""Data Warehouse""
+]"
+Posit,547,4.5,"[
+  ""Analytics Platforms""
+]"
+Tableau Server,428,4.2,"[
+  ""Analytics Platforms""
+]"
+SAP Analytics Cloud,340,4.2,"[
+  ""Analytics Platforms""
+]"
+MicroStrategy,533,4.2,"[
+  ""Analytics Platforms""
+]"
+Chartio,284,4.5,"[
+  ""Analytics Platforms""
+]"
+Sigma,231,4.3,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+RapidMiner,492,4.6,"[
+  ""Data Science and Machine Learning Platforms"",
+  ""Predictive Analytics""
+]"
+Adobe Analytics,880,4.1,"[
+  ""Predictive Analytics""
+]"
+Teradata Vantage,142,4.2,"[
+  ""Data Warehouse""
+]"
+Hevo Data,116,4.4,"[
+  ""Data Replication"",
+  ""ETL Tools"",
+  ""Data Extraction""
+]"
+Census,198,4.5,"[
+  ""ETL Tools""
+]"
+Tableau Desktop,1189,4.4,"[
+  ""Analytics Platforms""
+]"
+Qlik Replicate,106,4.3,"[
+  ""Data Replication"",
+  ""ETL Tools""
+]"
+Dremio,41,4.7,"[
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Amazon Redshift,300,4.3,"[
+  ""Columnar Databases"",
+  ""Data Warehouse""
+]"
+Qlik Sense,637,4.5,"[
+  ""Embedded Business Intelligence"",
+  ""Analytics Platforms""
+]"
+Tableau Desktop,1189,4.4,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+Mode,230,4.5,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+Domo,640,4.4,"[
+  ""Analytics Platforms"",
+  ""Embedded Business Intelligence""
+]"
+IBM SPSS Modeler,135,3.9,"[
+  ""Data Science and Machine Learning Platforms""
+]"
+Vertica,177,4.3,"[
+  ""Columnar Databases"",
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+Google Cloud BigQuery,332,4.4,"[
+  ""Columnar Databases"",
+  ""Big Data Processing and Distribution"",
+  ""Data Warehouse""
+]"
+SnapLogic Intelligent Integration Platform (IIP),174,4.2,"[
+  ""ETL Tools""
+]"
